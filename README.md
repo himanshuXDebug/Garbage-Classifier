@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 Run the project: python app.py
 
-3. Before excution of file download the file **https://drive.google.com/drive/folders/1aE_GHqF4PRwc3YUW1l37vYar-t493Nnf?usp=drive_link** and set the path
+3. Before excution of file download the file **https://drive.google.com/drive/folders/1CTvT_gnTvwlcKwJ8yz4jUOs0JYTKrplA?usp=drive_link** and set the path
 
 OR
 
